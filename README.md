@@ -3,6 +3,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwinkitee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=winkitee)](https://github.com/anuraghazra/github-readme-stats)
+
+My projects
+- [혼행, 혼자 아닌 여행](https://honhang.app/) ([Junhyeok Heo](https://github.com/huurray))
+- [66 Days - Change Your Life](https://apps.apple.com/kr/app/66-days-change-your-life/id1439590647?l=en)
 <!--
 **winkitee/winkitee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
