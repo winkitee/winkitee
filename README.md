@@ -4,9 +4,9 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=winkitee)](https://github.com/anuraghazra/github-readme-stats)
 
-My projects
+<!-- My projects
 - [혼행, 혼자 아닌 여행](https://honhang.app/) ([Junhyeok Heo](https://github.com/huurray))
-- [66 Days - Change Your Life](https://apps.apple.com/kr/app/66-days-change-your-life/id1439590647?l=en)
+- [66 Days - Change Your Life](https://apps.apple.com/kr/app/66-days-change-your-life/id1439590647?l=en) -->
 <!--
 **winkitee/winkitee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
